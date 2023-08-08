@@ -8,6 +8,7 @@ Awesome notes about Kernel/Virtualization/KVM.
   - [内核学习经验](https://martins3.github.io/kernel/learn-linux-kernel.html)
   - [虚拟化学习的一点经验之谈](https://martins3.github.io/learn-virtualization.html)
 - [兰新宇 - 知乎](https://zhuanlan.zhihu.com/p/93289632)
+- [lvyilong316 - ChinaUnix博客](http://blog.chinaunix.net/uid/28541347.html)
 
 点右上方 Watch 按钮进行订阅
 
